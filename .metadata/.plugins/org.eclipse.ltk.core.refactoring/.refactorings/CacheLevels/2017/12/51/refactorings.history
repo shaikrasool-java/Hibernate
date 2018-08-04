@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CacheLevels/src/course.hbm.xml&apos; to &apos;emp.hbm.xml&apos;" description="Rename resource &apos;course.hbm.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/course.hbm.xml" name="emp.hbm.xml" stamp="1513544157004" updateReferences="true"/>
+</session>

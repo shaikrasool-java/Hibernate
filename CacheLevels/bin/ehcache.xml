@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ehcache>
+<defaultCache>
+	MyElementsInMemory="100";
+	eternal="false";
+	TimeToIdealSeconds="120";
+	TimeToLiveSeconds="200";
+	</defaultCache>
+<cache name="com.java.hibernate.Emp">
+	MyElementsInMemory="10";
+	eternal="false";
+	TimeToIdealSeconds="15";
+	TimeToLiveSeconds="500";
+	</cache>
+</ehcache>

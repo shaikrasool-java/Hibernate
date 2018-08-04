@@ -1,0 +1,7 @@
+2017-12-18 03:47:19,538 [main] WARN  o.h.util.xpl.DTDEntityResolver - recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2017-12-18 04:17:55,884 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/wildfly/archetype/wildfly-javaee7-webapp-archetype/8.2.0.Final/wildfly-javaee7-webapp-archetype-8.2.0.Final.pom
+2017-12-18 04:17:56,187 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/wildfly/archetype/wildfly-javaee7-webapp-archetype/8.2.0.Final/wildfly-javaee7-webapp-archetype-8.2.0.Final.pom
+2017-12-18 04:17:57,314 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/wildfly/archetype/wildfly-javaee7-webapp-archetype/8.2.0.Final/wildfly-javaee7-webapp-archetype-8.2.0.Final.jar
+2017-12-18 04:17:58,179 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/wildfly/archetype/wildfly-javaee7-webapp-archetype/8.2.0.Final/wildfly-javaee7-webapp-archetype-8.2.0.Final.jar
+2018-05-26 16:38:25,124 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-05-26 16:38:26,061 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.

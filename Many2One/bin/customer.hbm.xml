@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>  
+<!DOCTYPE hibernate-mapping PUBLIC  
+ "-//Hibernate/Hibernate Mapping DTD 3.0//EN"  
+ "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+	<class name="com.java.hibernate.Customer" table="customer01">
+		<id name="cid" column="cid">
+		</id>
+		<property name="cname" column="cname"></property>
+		<property name="venId" column="venId" insert="false" update="false"></property>
+		<many-to-one name="parent" class="com.java.hibernate.Vendor" cascade="all"></many-to-one>
+	</class>
+</hibernate-mapping> 
